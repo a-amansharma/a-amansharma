@@ -1,4 +1,4 @@
-# Hello, Future Coders! 👋
+# Hello, Future Coders!
 
 
 
@@ -10,7 +10,7 @@
 
 ## About Me
 Hi, I’m **Aman Sharma**,
-I'm Aman Sharma, a Certified Curious Coder, and I take pride in my journey. Currently, I'm in my first semester, pursuing a Bachelor's degree in **Computer Science and AI.**
+I'm Aman Sharma, a Certified Web Developer and I take pride in my journey. Currently, I'm in my first semester, pursuing a Bachelor's degree in **Computer Science and AI.**
 
 
 ## My Skills 💡
