@@ -4,26 +4,25 @@
 
 ## About Me
 Hi, I’m **Aman Sharma**,
-I am Proud of me because I am a **Certified Curious Coder**.
-I’m currently a **1<sup>st</sup>-semester student** pursuing **Computer Science** at **PW IOI**.I know termux so I don't get errors(I mean to say 98% times if I know the syntax)
+I'm Aman Sharma, a Certified Curious Coder, and I take pride in my journey. Currently, I'm in my first semester, pursuing a Bachelor's degree in **Computer Science and AI.**
+
 
 ## My Skills 💡
 As a beginner, I’m still learning, but here are a few skills I’ve picked up so far:
 - Basics of **C**
 - Knowledge of **HTML, CSS**, and for simple web development
 - Familiarity with **Git** and **GitHub**
+- Little bit of knowledge about **JavaScript**
+- Also worked upon **MS Excel**
 - Enthusiasm for learning on the go 🚀
-
-
-
-
+  
 
 ##  I’m here To🎯
 
 1. **Learn** and improve my **coding skills**.
 2. **Collaborate** with amazing people from around the world.
 3. **Contribute** to real-world projects and make a positive impact.
-4. **Explore** the open-source ecosystem and also Explore Ethical hacking.
+4. **Explore** the open-source ecosystem.
 
 ## Let’s Connect! 🌐
 Feel free to reach out to me:
