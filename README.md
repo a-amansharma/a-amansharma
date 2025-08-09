@@ -5,7 +5,7 @@
 <i mg src="snake.svg" alt="Snake animation" />
 
 
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=a-amansharma&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+
 
 
 ## About Me
@@ -37,7 +37,6 @@ Feel free to reach out to me:
 - **Instagram**: https://www.instagram.com/_ar.sharma/
 
 
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
 
@@ -47,6 +46,10 @@ Feel free to reach out to me:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=a-amansharma&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=a-amansharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
