@@ -2,7 +2,7 @@
 
 
 
-<img src="snake.svg" alt="Snake animation" />
+<i mg src="snake.svg" alt="Snake animation" />
 
 
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=a-amansharma&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
