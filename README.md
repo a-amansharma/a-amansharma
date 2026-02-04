@@ -6,7 +6,7 @@ I’m Aman Sharma, a robotics enthusiast with a strong eye for **design, detail,
 I enjoy building intelligent hardware systems and visualizing ideas through **sketching and digital design**.  
 For me, every great build starts as a sketch and ends as a working system.
 
-🌐 **Portfolio**: https://a-amansharma.vercel.app/
+🌐 **Portfolio**: https://a-amansharma.github.io/Portfolio
 
 ---
 
