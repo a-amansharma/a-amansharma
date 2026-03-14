@@ -60,8 +60,6 @@ Today, I blend **technology and creativity** to build solutions that are functio
 
 ---
 
-## 📂 Projects
-
 ### 🤖 Robotics
 - **5+ Completed Robotics Projects**
 - Autonomous & sensor-based systems
